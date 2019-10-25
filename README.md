@@ -14,7 +14,7 @@
 
 ## Only for SPBSUE Students
 
-### For more information, please chat me in VK (Link added to logo VK)
+### For more information, please chat me in VK (Link added to VK logo)
 
 [npm]: https://img.shields.io/npm/v/@vkontakte/create-vk-mini-app.svg
 [npm-url]: https://npmjs.com/package/@vkontakte/create-vk-mini-app
