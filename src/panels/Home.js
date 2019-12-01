@@ -49,6 +49,11 @@ const Home = ({ id, go, fetchedUser }) => {
       <Group title="Выбор темы">
         <Div>
           <Button className="button">
+            <a href="#">Ответы</a>
+          </Button>
+        </Div>
+        <Div>
+          <Button className="button">
             <a href="https://vk.com/doc154522988_521580054?hash=fda2eb5e286f11686f&dl=29018e14ad139daee9">
               Технологии передачи сигналов
             </a>
