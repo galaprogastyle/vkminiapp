@@ -552,45 +552,45 @@ const Lab = ({ id, go }) => {
       <Group title="Эталонные модели интернета вещей">
         <Div style={{ display: "flex", marginBottom: -23 }}>
           <Button size="l" stretched style={{ width: 7 }}>
-            1
+            <a href="#e1">1</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            2
+            <a href="#e2">2</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            3
+            <a href="#e3">3</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            4
+            <a href="#e4">4</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            5
+            <a href="#e5">5</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            6
+            <a href="#e6">6</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            7
+            <a href="#e7">7</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            8
+            <a href="#e8">8</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            9
+            <a href="#e9">9</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            10
+            <a href="#e10">10</a>
           </Button>
         </Div>
         <Div style={{ display: "flex", marginBottom: -23 }}>
           <Button size="l" stretched style={{ width: 7 }}>
-            11
+            <a href="#e11">11</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            12
+            <a href="#e12">12</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            13
+            <a href="#e13">13</a>
           </Button>
         </Div>
       </Group>
@@ -599,71 +599,71 @@ const Lab = ({ id, go }) => {
       <Group title="Всепроникающие/ Протоколы">
         <Div style={{ display: "flex", marginBottom: -23 }}>
           <Button size="l" stretched style={{ width: 7 }}>
-            1
+            <a href="#p1">1</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            2
+            <a href="#p2">2</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            3
+            <a href="#p3">3</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            4
+            <a href="#p4">4</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            5
+            <a href="#p5">5</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            6
+            <a href="#p6">6</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            7
+            <a href="#p7">7</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            8
+            <a href="#p8">8</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            9
+            <a href="#p9">9</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            10
-          </Button>
-        </Div>
-        <Div style={{ display: "flex", marginBottom: -23 }}>
-          <Button size="l" stretched style={{ width: 7 }}>
-            11
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            12
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            13
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            14
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            15
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            16
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            17
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            18
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            19
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            20
+            <a href="#p10">10</a>
           </Button>
         </Div>
         <Div style={{ display: "flex", marginBottom: -23 }}>
           <Button size="l" stretched style={{ width: 7 }}>
-            21
+            <a href="#p11">11</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p12">12</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p13">13</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p14">14</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p15">15</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p16">16</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p17">17</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p18">18</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p19">19</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p20">20</a>
+          </Button>
+        </Div>
+        <Div style={{ display: "flex", marginBottom: -23 }}>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#p21">21</a>
           </Button>
         </Div>
       </Group>
@@ -672,71 +672,71 @@ const Lab = ({ id, go }) => {
       <Group title="Всепроникающие/ Технологии">
         <Div style={{ display: "flex", marginBottom: -23 }}>
           <Button size="l" stretched style={{ width: 7 }}>
-            1
+            <a href="#tt1">1</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            2
+            <a href="#tt2">2</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            3
+            <a href="#tt3">3</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            4
+            <a href="#tt4">4</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            5
+            <a href="#tt5">5</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            6
+            <a href="#tt6">6</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            7
+            <a href="#tt7">7</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            8
+            <a href="#tt8">8</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            9
+            <a href="#tt9">9</a>
           </Button>
           <Button size="l" stretched style={{ width: 7 }}>
-            10
-          </Button>
-        </Div>
-        <Div style={{ display: "flex", marginBottom: -23 }}>
-          <Button size="l" stretched style={{ width: 7 }}>
-            11
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            12
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            13
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            14
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            15
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            16
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            17
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            18
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            19
-          </Button>
-          <Button size="l" stretched style={{ width: 7 }}>
-            20
+            <a href="#tt10">10</a>
           </Button>
         </Div>
         <Div style={{ display: "flex", marginBottom: -23 }}>
           <Button size="l" stretched style={{ width: 7 }}>
-            21
+            <a href="#tt11">11</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt12">12</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#t13">13</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt14">14</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt15">15</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt16">16</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt17">17</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt18">18</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt19">19</a>
+          </Button>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt20">20</a>
+          </Button>
+        </Div>
+        <Div style={{ display: "flex", marginBottom: -23 }}>
+          <Button size="l" stretched style={{ width: 7 }}>
+            <a href="#tt21">21</a>
           </Button>
         </Div>
       </Group>
@@ -2440,7 +2440,615 @@ const Lab = ({ id, go }) => {
       </Group>
       <br></br>
 
-      <Button> </Button>
+      <Group title="Эталонные модели интернета вещей">
+        <Div>
+          <p>
+            <a name="e1" style={{ color: "red" }}>
+              1. Классификация устройств интернета вещей.
+            </a>
+            <br></br>
+            Технологии передачи данных - обеспечивает перемещение данных
+            Технологии мультиплексирования – повышение использования сетевых
+            ресурсов Технологии коммутации – организация совместного
+            использования отправителями групповых сетевых ресурсов, образованных
+            в результате мультиплексирования ЧЕРЕЗ ЭЛЕКТРОМАГНИТНОЕ
+            ВЗАИМОДЕЙСТВИЕ
+          </p>
+          <br></br>
+          <p>
+            <a name="e2" style={{ color: "red" }}>
+              2. Взаимосвязь Устройств и физических вещей (МСЭ-T Y.2060)
+            </a>
+            <br></br>
+            Информация — осознанные сведения об окружающем мире, которые
+            являются объектом хранения, преобразования, передачи и
+            использования. Виды информации по её форме представления, способам
+            её кодирования и хранения, что имеет наибольшее значение для
+            информатики, это: • графическая или изобразительная • звуковая
+            (акустическая) • текстовая • числовая • видеоинформация •
+            Объективность информации. • Достоверность информации. • Полнота
+            информации. • Точность информации • Актуальность информации •
+            Полезность (ценность) информации
+          </p>
+          <br></br>
+          <p>
+            <a name="e3" style={{ color: "red" }}>
+              3. Взаимодействие Устройств интернета вещей
+            </a>
+            <br></br>
+            Осуществляется на 2ух метауровнях. <br></br>2)Идеальный - Смысл
+            1)сигналы - физиологический уровень
+          </p>
+          <br></br>
+          <p>
+            <a name="e4" style={{ color: "red" }}>
+              4. Общие требования к интернету вещей
+            </a>
+            <br></br>
+            Сигнал электросвязи – это электромагнитное колебание, при помощи
+            которого сообщения передаются от источника к получателю по каналу
+            связи. В качестве сигналов могут выступать электрический ток,
+            звуковые, световые, электромагнитные волны, др. Для преобразования
+            сообщения в сигнал независимыми устройствами должны быть реализованы
+            3 операции: 1) Преобразование – восстановление 2) Модуляция –
+            демодуляция 3) Кодирование – декодирование Электромагни́тный спектр —
+            совокупность всех диапазонов частот электромагнитного излучения
+          </p>
+          <br></br>
+          <p>
+            <a name="e5" style={{ color: "red" }}>
+              5. Общий принцип построения многоуровневых моделей при
+              стандартизации взаимодействия открытых систем
+            </a>
+            <br></br>
+            Зависит от частоты сигнала и свойств среды распространения Ее надо
+            учитывать при проектировании инфокоммуникациионых систем и сетей.
+            Радиоволны распространяются со скоростью близкой к скорости света.
+            Процент от скорости света в вакууме: Для витой пары -80% Для
+            коаксиальных кабелей – 90% В оптоволокне V=c/n n -коэф преломления
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e6" style={{ color: "red" }}>
+              6. Эталонная модель интернета вещей МСЭ-Т. Возможности 3-го и 4-го
+              уровней.
+            </a>
+            <br></br>
+            Ширина полосы канала -Чем шире полоса, больше скорость передачи
+            Скорость передачи данных – количество бит передаваемое в секунду
+            Пропускная способность канала – максимальная скорость передачи
+            данных, которую поддерживает канал.
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e7" style={{ color: "red" }}>
+              7. Эталонная модель интернета вещей МСЭ-Т. Возможности 1-го и 2-го
+              уровней.
+            </a>
+            <br></br>
+            Сообщения - кодовая последовательность знаков языка Данные -
+            обобщенное обозначение для любой информации Сигнал – данные, имеющие
+            физическую форму, обеспечивающие перемещение от отправителя к
+            получателю по физической среде взаимодействия. Сигнал – переносчик
+            сообщения в физ среде.
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e8" style={{ color: "red" }}>
+              8. Эталонная модель интернета вещей МСЭ-Т. Возможности управления
+              и обеспечения безопасности.
+            </a>
+            <br></br>
+            Источник инф -> Передатчик -> канал(+ источники шума) -> приемник
+            ->адресат
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e9" style={{ color: "red" }}>
+              9. Экосистема интернета вещей
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e10" style={{ color: "red" }}>
+              10. Бизнес-модели интернета вещей
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e11" style={{ color: "red" }}>
+              11. Эталонная модель всемирного форума интернета вещей IWF.
+              Предназначение модели.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e12" style={{ color: "red" }}>
+              12. Характеристика 1-3 Уровней Эталонной модели IWF
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="e13" style={{ color: "red" }}>
+              13. Характеристика 4-7 Уровней Эталонной модели IWF
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+        </Div>
+      </Group>
+      <br></br>
+
+      <Group title="Всепроникающие / Протоколы">
+        <Div>
+          <p>
+            <a name="p1" style={{ color: "red" }}>
+              1. Общий принцип построения многоуровневых моделей при
+              стандартизации взаимодействия открытых систем.
+            </a>
+            <br></br>
+            Технологии передачи данных - обеспечивает перемещение данных
+            Технологии мультиплексирования – повышение использования сетевых
+            ресурсов Технологии коммутации – организация совместного
+            использования отправителями групповых сетевых ресурсов, образованных
+            в результате мультиплексирования ЧЕРЕЗ ЭЛЕКТРОМАГНИТНОЕ
+            ВЗАИМОДЕЙСТВИЕ
+          </p>
+          <br></br>
+          <p>
+            <a name="p2" style={{ color: "red" }}>
+              2. Эталонная модель интернета вещей (МСЭ-T Y.2060)
+            </a>
+            <br></br>
+            Информация — осознанные сведения об окружающем мире, которые
+            являются объектом хранения, преобразования, передачи и
+            использования. Виды информации по её форме представления, способам
+            её кодирования и хранения, что имеет наибольшее значение для
+            информатики, это: • графическая или изобразительная • звуковая
+            (акустическая) • текстовая • числовая • видеоинформация •
+            Объективность информации. • Достоверность информации. • Полнота
+            информации. • Точность информации • Актуальность информации •
+            Полезность (ценность) информации
+          </p>
+          <br></br>
+          <p>
+            <a name="p3" style={{ color: "red" }}>
+              3. Общая характеристика стандартов IEEE 802.x.
+            </a>
+            <br></br>
+            Осуществляется на 2ух метауровнях. <br></br>2)Идеальный - Смысл
+            1)сигналы - физиологический уровень
+          </p>
+          <br></br>
+          <p>
+            <a name="p4" style={{ color: "red" }}>
+              4. Физический и канальный уровни IEEE 802.x.
+            </a>
+            <br></br>
+            Сигнал электросвязи – это электромагнитное колебание, при помощи
+            которого сообщения передаются от источника к получателю по каналу
+            связи. В качестве сигналов могут выступать электрический ток,
+            звуковые, световые, электромагнитные волны, др. Для преобразования
+            сообщения в сигнал независимыми устройствами должны быть реализованы
+            3 операции: 1) Преобразование – восстановление 2) Модуляция –
+            демодуляция 3) Кодирование – декодирование Электромагни́тный спектр —
+            совокупность всех диапазонов частот электромагнитного излучения
+          </p>
+          <br></br>
+          <p>
+            <a name="p5" style={{ color: "red" }}>
+              5. Технологии расширения спектра сигнала.
+            </a>
+            <br></br>
+            Зависит от частоты сигнала и свойств среды распространения Ее надо
+            учитывать при проектировании инфокоммуникациионых систем и сетей.
+            Радиоволны распространяются со скоростью близкой к скорости света.
+            Процент от скорости света в вакууме: Для витой пары -80% Для
+            коаксиальных кабелей – 90% В оптоволокне V=c/n n -коэф преломления
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p6" style={{ color: "red" }}>
+              6. Что такое модуляция, манипуляция, спектр сигнала?
+            </a>
+            <br></br>
+            Ширина полосы канала -Чем шире полоса, больше скорость передачи
+            Скорость передачи данных – количество бит передаваемое в секунду
+            Пропускная способность канала – максимальная скорость передачи
+            данных, которую поддерживает канал.
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p7" style={{ color: "red" }}>
+              7. Основы частотной модуляции FSK (frequency shift key).
+            </a>
+            <br></br>
+            Сообщения - кодовая последовательность знаков языка Данные -
+            обобщенное обозначение для любой информации Сигнал – данные, имеющие
+            физическую форму, обеспечивающие перемещение от отправителя к
+            получателю по физической среде взаимодействия. Сигнал – переносчик
+            сообщения в физ среде.
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p8" style={{ color: "red" }}>
+              8. Основы аналоговой модуляции по амплитуде и фазе.
+            </a>
+            <br></br>
+            Источник инф -> Передатчик -> канал(+ источники шума) -> приемник
+            ->адресат
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p9" style={{ color: "red" }}>
+              9. Векторные диаграммы манипуляций BPSK и OQPSK.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p10" style={{ color: "red" }}>
+              10. Стандарт ieee 802.15.4. Физический уровень.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p11" style={{ color: "red" }}>
+              11. Стандарт ieee 802.15.4. Подуровень MAC.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p12" style={{ color: "red" }}>
+              12. Основы протокола множественного доступа CSMA-CA.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p13" style={{ color: "red" }}>
+              13. Основные понятия технологий маршрутизации.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p14" style={{ color: "red" }}>
+              14. Базовые топологии сетей стандарта ieee 802.15.4.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p15" style={{ color: "red" }}>
+              15. Классификация протоколов маршрутизации сенсорных сетей.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p16" style={{ color: "red" }}>
+              16. Открытые полосы частот согласно решения ГКРЧ.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p17" style={{ color: "red" }}>
+              17. Общая характеристика диапазона LPD 433.075 -434.750 МГц.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p18" style={{ color: "red" }}>
+              18. Общая характеристика диапазона PMR 446.00625 - 446.09375 МГц.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p19" style={{ color: "red" }}>
+              19. Общая характеристика диапазона 868,7-869,2 МГц МГц.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p20" style={{ color: "red" }}>
+              20. Общая характеристика диапазона 2,4 ГГц.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="p21" style={{ color: "red" }}>
+              21. Общая характеристика диапазона 5 – 6 ГГц.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+        </Div>
+      </Group>
+
+      <br></br>
+
+      <Group title="Всепроникающие / Технологии">
+        <Div>
+          <p>
+            <a name="tt1" style={{ color: "red" }}>
+              1. Стандарты IEEE 802.x.
+            </a>
+            <br></br>
+            Технологии передачи данных - обеспечивает перемещение данных
+            Технологии мультиплексирования – повышение использования сетевых
+            ресурсов Технологии коммутации – организация совместного
+            использования отправителями групповых сетевых ресурсов, образованных
+            в результате мультиплексирования ЧЕРЕЗ ЭЛЕКТРОМАГНИТНОЕ
+            ВЗАИМОДЕЙСТВИЕ
+          </p>
+          <br></br>
+          <p>
+            <a name="tt2" style={{ color: "red" }}>
+              2. Эфирные сети стандарта IEEE 802.x
+            </a>
+            <br></br>
+            Информация — осознанные сведения об окружающем мире, которые
+            являются объектом хранения, преобразования, передачи и
+            использования. Виды информации по её форме представления, способам
+            её кодирования и хранения, что имеет наибольшее значение для
+            информатики, это: • графическая или изобразительная • звуковая
+            (акустическая) • текстовая • числовая • видеоинформация •
+            Объективность информации. • Достоверность информации. • Полнота
+            информации. • Точность информации • Актуальность информации •
+            Полезность (ценность) информации
+          </p>
+          <br></br>
+          <p>
+            <a name="tt3" style={{ color: "red" }}>
+              3. Стандарт IEEE 802.15.4. Физический уровень.5. Базовые топологии
+              сетей стандарта IEEE 802.15.4.
+            </a>
+            <br></br>
+            Осуществляется на 2ух метауровнях. <br></br>2)Идеальный - Смысл
+            1)сигналы - физиологический уровень
+          </p>
+          <br></br>
+          <p>
+            <a name="tt4" style={{ color: "red" }}>
+              4. Технология ZigBee.
+            </a>
+            <br></br>
+            Сигнал электросвязи – это электромагнитное колебание, при помощи
+            которого сообщения передаются от источника к получателю по каналу
+            связи. В качестве сигналов могут выступать электрический ток,
+            звуковые, световые, электромагнитные волны, др. Для преобразования
+            сообщения в сигнал независимыми устройствами должны быть реализованы
+            3 операции: 1) Преобразование – восстановление 2) Модуляция –
+            демодуляция 3) Кодирование – декодирование Электромагни́тный спектр —
+            совокупность всех диапазонов частот электромагнитного излучения
+          </p>
+          <br></br>
+          <p>
+            <a name="tt5" style={{ color: "red" }}>
+              5. Технология Bluetooth стандарта IEEE 802.15.1. Версия 2.0 + EDR.
+            </a>
+            <br></br>
+            Зависит от частоты сигнала и свойств среды распространения Ее надо
+            учитывать при проектировании инфокоммуникациионых систем и сетей.
+            Радиоволны распространяются со скоростью близкой к скорости света.
+            Процент от скорости света в вакууме: Для витой пары -80% Для
+            коаксиальных кабелей – 90% В оптоволокне V=c/n n -коэф преломления
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt6" style={{ color: "red" }}>
+              6. Разделение каналов в технологии Bluetooth.
+            </a>
+            <br></br>
+            Ширина полосы канала -Чем шире полоса, больше скорость передачи
+            Скорость передачи данных – количество бит передаваемое в секунду
+            Пропускная способность канала – максимальная скорость передачи
+            данных, которую поддерживает канал.
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt7" style={{ color: "red" }}>
+              7. Образование piconet и scatternet в технологии Bluetooth.
+            </a>
+            <br></br>
+            Сообщения - кодовая последовательность знаков языка Данные -
+            обобщенное обозначение для любой информации Сигнал – данные, имеющие
+            физическую форму, обеспечивающие перемещение от отправителя к
+            получателю по физической среде взаимодействия. Сигнал – переносчик
+            сообщения в физ среде.
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt8" style={{ color: "red" }}>
+              8. Технология Bluetooth стандарта IEEE 802.15.1. Версия 5.0.
+            </a>
+            <br></br>
+            Источник инф -> Передатчик -> канал(+ источники шума) -> приемник
+            ->адресат
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt9" style={{ color: "red" }}>
+              9. Технология WI-FI стандарта IEEE 802.11n.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt10" style={{ color: "red" }}>
+              10. Основы технологии MIMO.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt11" style={{ color: "red" }}>
+              11. Эфирные сети для города и сельской местности WIMAX и White
+              Space .
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt12" style={{ color: "red" }}>
+              12. Основные понятия технологий маршрутизации.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt13" style={{ color: "red" }}>
+              14. Предпосылки создания протоколов маршрутизации для сенсорных
+              сетей.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt14" style={{ color: "red" }}>
+              14. Предпосылки создания протоколов маршрутизации для сенсорных
+              сетей.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt15" style={{ color: "red" }}>
+              15. Протокол AODV (Ad hoc On Demand Distance Vector).
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt16" style={{ color: "red" }}>
+              16. Протокол LEACH (Low-Energy Adaptive Clustering Hierarchy).
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt17" style={{ color: "red" }}>
+              17. Протокол PEGASIS (Power-Efficient Gathering in Sensor
+              Information System).
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt18" style={{ color: "red" }}>
+              18. Протоколы Hierarchical (иерархический) PEGASIS и BCDCP
+              (Base-Station Controlled Dynamic Clustering Protocol).
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt19" style={{ color: "red" }}>
+              19. Технологии и дальнего радиуса действия для IoT (LPWAN -
+              Low-Power Wide-Area Network).
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt20" style={{ color: "red" }}>
+              20. Технология LoRaWAN.
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+
+          <br></br>
+          <p>
+            <a name="tt21" style={{ color: "red" }}>
+              21. Технология «СТРИЖ».
+            </a>
+            <br></br>
+            inerithybtrgiern
+          </p>
+        </Div>
+      </Group>
+
+      <br></br>
+      <Button></Button>
       <Button
         size="xl"
         style={{ position: "fixed", left: "0", bottom: "0", zIndex: "124" }}
