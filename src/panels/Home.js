@@ -27,7 +27,7 @@ const Home = ({ id, go, fetchedUser }) => {
   };
   return (
     <Panel id={id}>
-      <PanelHeader>Тех. интернета вещей</PanelHeader>
+      <PanelHeader>Технологии интернета вещей</PanelHeader>
       {fetchedUser && (
         <Group title="Студент, изучающий материал">
           <Cell
@@ -48,8 +48,8 @@ const Home = ({ id, go, fetchedUser }) => {
       )}
       <Group title="Выбор темы">
         <Div>
-          <Button className="button">
-            <a href="#">Ответы</a>
+          <Button className="button1" onClick={go} data-to="Lab">
+            Ответы на все темы
           </Button>
         </Div>
         <Div>

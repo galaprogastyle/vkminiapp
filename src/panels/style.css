@@ -27,3 +27,12 @@ img {
   margin-top: 7px;
   margin-bottom: -15px;
 }
+.button1 {
+  margin-top: -10px;
+  margin-bottom: -10px;
+  width: 100%;
+  background-color: rgb(109, 0, 100);
+  font-family: fantasy;
+  text-decoration: solid;
+  color: rgb(245, 245, 245);
+}
