@@ -9,7 +9,7 @@ import Persik from "./panels/Persik";
 import Persik2 from "./panels/Persik2";
 import Lab from "./panels/Lab";
 const App = () => {
-  const [activePanel, setActivePanel] = useState("Lab");
+  const [activePanel, setActivePanel] = useState("home");
   const [fetchedUser, setUser] = useState(null);
   const [popout, setPopout] = useState(<ScreenSpinner size="large" />);
 
